@@ -1,0 +1,63 @@
+#products{
+  text-align:center; 
+}
+
+#logo{
+  border-radius: 50%; 
+}
+
+#materials{
+  color:black; 
+}
+
+body{
+  font-family: 'PT Serif', serif; 
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+  position:fixed;
+}
+
+
+li {
+  float: left;
+}
+  
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+background-color: #111111;
+}
+
+
+#title{
+  font-size:45; 
+  font-family: 'Lobster', cursive;
+}
+
+.heading{
+  font-family: 'Lobster', cursive;
+}
+
+.subheading{
+  font-family: 'Playball', cursive; 
+}
+
+#selfcarep{
+  font-size:40;
+}
+
+#cups_id{
+  font-size:40; 
+}
